@@ -1,4 +1,4 @@
 my-first
 ========
 
-first repository
+Hello world repository
